@@ -79,8 +79,8 @@ Stack: Python, PyTorch, MobileNetV3, MTCNN, MediaPipe
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeshanPasindu&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+</p> -->
 
 <p align="center"><i>Thanks for stopping by — feel free to connect!</i></p>
