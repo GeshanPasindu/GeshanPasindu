@@ -80,7 +80,6 @@ Stack: Python, PyTorch, MobileNetV3, MTCNN, MediaPipe
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeshanPasindu&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeshanPasindu&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
