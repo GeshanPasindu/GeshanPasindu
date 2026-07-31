@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Geshan Randeni 👋</h1>
-<h3 align="center">Full-Stack Software Engineer · Node.js · React · AWS Serverless</h3>
+<h3 align="center">Full-Stack Software Engineer · Node.js · NestJs· React · Angular</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/geshan-randeni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm a Full-Stack Software Engineer based in Sri Lanka with close to two years of experience building production applications in **real estate analytics** and **e-commerce**. I currently work on a property market analytics platform serving 1,000+ users, where I build full-stack features spanning React/Next.js frontends and Node.js/Express backends.
+I'm a Full-Stack Software Engineer based in Sri Lanka with close to two years of experience building production applications in **real estate analytics** and **e-commerce**.
 
 - 🌱 Deepening my skills in **AWS serverless architecture** and scalable API design
 - 🎓 BSc (Hons) in Information Technology, University of Moratuwa
