@@ -12,7 +12,6 @@
 
 I'm a Full-Stack Software Engineer based in Sri Lanka with close to two years of experience building production applications in **real estate analytics** and **e-commerce**. I currently work on a property market analytics platform serving 1,000+ users, where I build full-stack features spanning React/Next.js frontends and Node.js/Express backends.
 
-- 🔭 Currently building analytics features and backend automation at **Avantrio / SkaleMinds**
 - 🌱 Deepening my skills in **AWS serverless architecture** and scalable API design
 - 🎓 BSc (Hons) in Information Technology, University of Moratuwa
 - 📫 Reach me at **geshanp.info@gmail.com**
