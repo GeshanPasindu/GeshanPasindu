@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Geshan Randeni 👋</h1>
-<h3 align="center">Full-Stack Software Engineer · Node.js · NestJs· React · Angular</h3>
+<h3 align="center">Full-Stack Software Engineer · Node.js · React · AWS Serverless</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/geshan-randeni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,9 +10,10 @@
 
 ### About Me
 
-I'm a Full-Stack Software Engineer based in Sri Lanka with close to two years of experience building production applications in **real estate analytics** and **e-commerce**.
+I'm a Full-Stack Software Engineer based in Sri Lanka with close to two years of experience building production applications in **real estate analytics** and **e-commerce**. Most recently, I built full-stack features on a property market analytics platform, spanning React/Next.js frontends and Node.js/Express backends.
 
-- 🌱 Deepening my skills in **AWS serverless architecture** and scalable API design
+- 💼 Open to new Full-Stack / Backend Engineer opportunities
+- 🛠️ Background in **Node.js, NestJS, React, TypeScript**, and **AWS serverless architecture**
 - 🎓 BSc (Hons) in Information Technology, University of Moratuwa
 - 📫 Reach me at **geshanp.info@gmail.com**
 
@@ -67,10 +68,11 @@ Stack: React, TypeScript, Vite (frontend) · Node.js, Express, TypeScript (backe
 A final-year research project tackling deepfake detection for resource-constrained devices. Built a multimodal preprocessing pipeline (MTCNN for face detection, MediaPipe for landmarks, optical flow for motion cues) feeding into LRATF — a custom 11 MB architecture using MobileNetV3 as a lightweight backbone. Temporal consistency across frames is captured with 11 parallel LSTMs and a multi-head attention layer, reaching ~90% validation accuracy while staying small enough for on-device inference.
 Stack: Python, PyTorch, MobileNetV3, MTCNN, MediaPipe
 
+> More public repos coming soon — several of my production projects were built under client/employer ownership, so they're summarized below instead of linked.
 
 ### Professional Experience Highlights
 
-- **Prop-AI** (Avantrio / SkaleMinds) — Full-stack features across a platform with 1.5M+ tracked transactions, using React, Next.js, Node.js, and Express.js. Shipped premium analytics features with multi-location comparison views.
+- **Property Market Analytics Platform** (Avantrio / SkaleMinds) — Full-stack features across a platform serving 1,000+ users and 1.5M+ tracked transactions, using React, Next.js, Node.js, and Express.js. Built an automated PDF report generator with Puppeteer and shipped a premium analytics feature with multi-location comparison views.
 - **Tangora Admin Panel** (Freelance) — End-to-end full-stack admin platform (Node.js, Express.js, MongoDB, React) for an Australian cleaning company, deployed and actively used in production.
 - **Ellangava E-Commerce Platform** (Panaceata) — Backend and frontend features for a production e-commerce platform using NestJS, PostgreSQL, and Angular, including end-to-end AWS Cognito authentication.
 - **IQSparker – Interactive Quiz Platform** (Panaceata) — Full-stack quiz platform (Node.js, Angular, DynamoDB, Cognito) with 10+ serverless Lambda functions for scoring and business logic.
