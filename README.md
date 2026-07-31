@@ -68,7 +68,6 @@ Stack: React, TypeScript, Vite (frontend) · Node.js, Express, TypeScript (backe
 A final-year research project tackling deepfake detection for resource-constrained devices. Built a multimodal preprocessing pipeline (MTCNN for face detection, MediaPipe for landmarks, optical flow for motion cues) feeding into LRATF — a custom 11 MB architecture using MobileNetV3 as a lightweight backbone. Temporal consistency across frames is captured with 11 parallel LSTMs and a multi-head attention layer, reaching ~90% validation accuracy while staying small enough for on-device inference.
 Stack: Python, PyTorch, MobileNetV3, MTCNN, MediaPipe
 
-> More public repos coming soon — several of my production projects were built under client/employer ownership, so they're summarized below instead of linked.
 
 ### Professional Experience Highlights
 
