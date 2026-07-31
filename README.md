@@ -70,7 +70,7 @@ Stack: Python, PyTorch, MobileNetV3, MTCNN, MediaPipe
 
 ### Professional Experience Highlights
 
-- **Property Market Analytics Platform** (Avantrio / SkaleMinds) — Full-stack features across a platform with 1.5M+ tracked transactions, using React, Next.js, Node.js, and Express.js. Shipped premium analytics features with multi-location comparison views.
+- **Prop-AI** (Avantrio / SkaleMinds) — Full-stack features across a platform with 1.5M+ tracked transactions, using React, Next.js, Node.js, and Express.js. Shipped premium analytics features with multi-location comparison views.
 - **Tangora Admin Panel** (Freelance) — End-to-end full-stack admin platform (Node.js, Express.js, MongoDB, React) for an Australian cleaning company, deployed and actively used in production.
 - **Ellangava E-Commerce Platform** (Panaceata) — Backend and frontend features for a production e-commerce platform using NestJS, PostgreSQL, and Angular, including end-to-end AWS Cognito authentication.
 - **IQSparker – Interactive Quiz Platform** (Panaceata) — Full-stack quiz platform (Node.js, Angular, DynamoDB, Cognito) with 10+ serverless Lambda functions for scoring and business logic.
