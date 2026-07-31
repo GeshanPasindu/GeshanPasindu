@@ -12,6 +12,7 @@
 
 I'm a Full-Stack Software Engineer based in Sri Lanka with close to two years of experience building production applications in **real estate analytics** and **e-commerce**. I currently work on a property market analytics platform serving 1,000+ users, where I build full-stack features spanning React/Next.js frontends and Node.js/Express backends.
 
+- 🔭 Currently building analytics features and backend automation at **Avantrio / SkaleMinds**
 - 🌱 Deepening my skills in **AWS serverless architecture** and scalable API design
 - 🎓 BSc (Hons) in Information Technology, University of Moratuwa
 - 📫 Reach me at **geshanp.info@gmail.com**
@@ -59,14 +60,19 @@ I'm a Full-Stack Software Engineer based in Sri Lanka with close to two years of
 
 ### Featured Projects
 
+**[Job Search CRM & Application Assistant](https://github.com/GeshanPasindu/Job-search-management-app)**
+A full-stack job-search tracker built to remove the manual grind of a real job hunt. Imports listings (manual paste, public job-site APIs, and read-only Gmail job-alert parsing), scores each job against a configurable skills/keyword profile, and generates tailored application packages from reusable CV/cover-letter templates. Tracks applications end-to-end — status, follow-ups, contacts, and interview notes — through a dashboard.
+Stack: React, TypeScript, Vite (frontend) · Node.js, Express, TypeScript (backend) · PostgreSQL + Prisma · Zod validation · Gmail OAuth (read-only)
+
 **[Lightweight Regional-Aware Temporal Architecture for Deepfake Detection](https://github.com/GeshanPasindu/Tech-Visionaries-fake-news-detection)**
-An 11 MB deepfake-detection architecture (MobileNetV3 + temporal fusion with parallel LSTMs and multi-head attention) built for resource-constrained devices, achieving ~90% validation accuracy.
+A final-year research project tackling deepfake detection for resource-constrained devices. Built a multimodal preprocessing pipeline (MTCNN for face detection, MediaPipe for landmarks, optical flow for motion cues) feeding into LRATF — a custom 11 MB architecture using MobileNetV3 as a lightweight backbone. Temporal consistency across frames is captured with 11 parallel LSTMs and a multi-head attention layer, reaching ~90% validation accuracy while staying small enough for on-device inference.
+Stack: Python, PyTorch, MobileNetV3, MTCNN, MediaPipe
 
 > More public repos coming soon — several of my production projects were built under client/employer ownership, so they're summarized below instead of linked.
 
 ### Professional Experience Highlights
 
-- **Prop-AI** (Avantrio / SkaleMinds) — Full-stack features across a platform with 1.5M+ tracked transactions, using React, Next.js, Node.js, and Express.js. Shipped premium analytics features with multi-location comparison views.
+- **Property Market Analytics Platform** (Avantrio / SkaleMinds) — Full-stack features across a platform with 1.5M+ tracked transactions, using React, Next.js, Node.js, and Express.js. Shipped premium analytics features with multi-location comparison views.
 - **Tangora Admin Panel** (Freelance) — End-to-end full-stack admin platform (Node.js, Express.js, MongoDB, React) for an Australian cleaning company, deployed and actively used in production.
 - **Ellangava E-Commerce Platform** (Panaceata) — Backend and frontend features for a production e-commerce platform using NestJS, PostgreSQL, and Angular, including end-to-end AWS Cognito authentication.
 - **IQSparker – Interactive Quiz Platform** (Panaceata) — Full-stack quiz platform (Node.js, Angular, DynamoDB, Cognito) with 10+ serverless Lambda functions for scoring and business logic.
